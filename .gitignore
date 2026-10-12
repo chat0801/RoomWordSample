@@ -1,0 +1,15 @@
+.gradle/
+local.properties
+.idea/
+*.iml
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Project exclude paths
+/app/
+/gradle/
+/screenshots/
